@@ -1,0 +1,4 @@
+anthropic
+redis
+fastapi
+uvicorn
